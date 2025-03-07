@@ -1,6 +1,6 @@
 # Real-Time Communication Application
 
-Web application built using **Go** and **React**. The application uses **WebSocket**s for real-time communication between clients and the server.
+Application built using **Go** and **React**, implementing **WebSocket**s for real-time communication between clients.
 
 ## Features
 
